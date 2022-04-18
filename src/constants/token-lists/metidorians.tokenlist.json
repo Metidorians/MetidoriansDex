@@ -1,0 +1,48 @@
+{
+  "name": "Metidorians List",
+  "timestamp": "2021-07-15T12:15:29.993Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/sushiswap/art/master/sushi/logo-256x256.png",
+  "keywords": ["sushiswap", "default"],
+  "tokens": [
+    {
+      "name": "Metidorians Token",
+      "address": "0x6957B8F72b9DcB6A05E1384E422454F107Ebe0a8",
+      "symbol": "METIDORIANS",
+      "decimals": 18,
+      "chainId":  1088,
+      "logoURI": "https://i.imgur.com/zwlKics.png"
+    },
+    {
+      "name": "METIS",
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "symbol": "METIS",
+      "decimals": 18,
+      "chainId": 1088,
+      "logoURI": "https://i.imgur.com/AKOMI4w.png"
+    },
+
+    {
+      "name": "Dark Matter",
+      "address": "0x2207fe616CAb5DaA9e84Ac5043dA38C6722de1C9",
+      "symbol": "DMT",
+      "decimals": 18,
+      "chainId": 1088,
+      "logoURI": "https://i.imgur.com/ARtmlJw.png"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 1088,
+    "logoURI": "https://i.imgur.com/KYLPHiz.png"
+}
+
+  ]
+}
